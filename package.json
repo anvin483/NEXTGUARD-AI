@@ -1,0 +1,23 @@
+{
+  "name": "nextguard-ai",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0 --port 0",
+    "server": "node server/index.js",
+    "demo": "node scripts/demo.mjs",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@vitejs/plugin-react": "latest",
+    "lucide-react": "latest",
+    "neo4j-driver": "^6.3.0",
+    "react": "latest",
+    "react-dom": "latest",
+    "three": "^0.160.1",
+    "vite": "latest",
+    "ws": "^8.22.1"
+  }
+}

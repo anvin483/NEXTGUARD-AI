@@ -1,0 +1,68 @@
+[23156 - Suricata-Main] 2026-11-02 19:11:32 Notice: suricata: This is Suricata version 8.0.7 RELEASE running in USER mode
+[23156 - Suricata-Main] 2026-11-02 19:11:32 Info: cpu: CPUs/cores online: 16
+[23156 - Suricata-Main] 2026-11-02 19:11:32 Notice: runmodes: thread stack size of 0 too small: setting to 512k
+[23156 - Suricata-Main] 2026-11-02 19:11:32 Info: suricata: Setting engine mode to IDS mode by default
+[23156 - Suricata-Main] 2026-11-02 19:11:32 Info: exception-policy: master exception-policy set to: auto
+[23156 - Suricata-Main] 2026-11-02 19:11:32 Info: coredump-config: Configuring core dump is not yet supported on Windows.
+[23156 - Suricata-Main] 2026-11-02 19:11:32 Info: logopenfile: fast output device (regular) initialized: fast.log
+[23156 - Suricata-Main] 2026-11-02 19:11:32 Info: logopenfile: eve-log output device (regular) initialized: eve.json
+[23156 - Suricata-Main] 2026-11-02 19:11:32 Info: logopenfile: stats output device (regular) initialized: stats.log
+[23156 - Suricata-Main] 2026-11-02 19:11:32 Error: detect: opening rule file C:\\Program Files\\Suricata\\rules\\botcc.rules: No such file or directory.
+[23156 - Suricata-Main] 2026-11-02 19:11:32 Error: detect: opening rule file C:\\Program Files\\Suricata\\rules\\botcc.portgrouped.rules: No such file or directory.
+[23156 - Suricata-Main] 2026-11-02 19:11:32 Error: detect: opening rule file C:\\Program Files\\Suricata\\rules\\ciarmy.rules: No such file or directory.
+[23156 - Suricata-Main] 2026-11-02 19:11:32 Error: detect: opening rule file C:\\Program Files\\Suricata\\rules\\compromised.rules: No such file or directory.
+[23156 - Suricata-Main] 2026-11-02 19:11:32 Error: detect: opening rule file C:\\Program Files\\Suricata\\rules\\drop.rules: No such file or directory.
+[23156 - Suricata-Main] 2026-11-02 19:11:32 Error: detect: opening rule file C:\\Program Files\\Suricata\\rules\\dshield.rules: No such file or directory.
+[23156 - Suricata-Main] 2026-11-02 19:11:32 Error: detect: opening rule file C:\\Program Files\\Suricata\\rules\\emerging-activex.rules: No such file or directory.
+[23156 - Suricata-Main] 2026-11-02 19:11:32 Error: detect: opening rule file C:\\Program Files\\Suricata\\rules\\emerging-adware_pup.rules: No such file or directory.
+[23156 - Suricata-Main] 2026-11-02 19:11:32 Error: detect: opening rule file C:\\Program Files\\Suricata\\rules\\emerging-attack_response.rules: No such file or directory.
+[23156 - Suricata-Main] 2026-11-02 19:11:32 Error: detect: opening rule file C:\\Program Files\\Suricata\\rules\\emerging-chat.rules: No such file or directory.
+[23156 - Suricata-Main] 2026-11-02 19:11:32 Error: detect: opening rule file C:\\Program Files\\Suricata\\rules\\emerging-coinminer.rules: No such file or directory.
+[23156 - Suricata-Main] 2026-11-02 19:11:32 Error: detect: opening rule file C:\\Program Files\\Suricata\\rules\\emerging-current_events.rules: No such file or directory.
+[23156 - Suricata-Main] 2026-11-02 19:11:32 Error: detect: opening rule file C:\\Program Files\\Suricata\\rules\\emerging-dns.rules: No such file or directory.
+[23156 - Suricata-Main] 2026-11-02 19:11:32 Error: detect: opening rule file C:\\Program Files\\Suricata\\rules\\emerging-dos.rules: No such file or directory.
+[23156 - Suricata-Main] 2026-11-02 19:11:32 Error: detect: opening rule file C:\\Program Files\\Suricata\\rules\\emerging-exploit.rules: No such file or directory.
+[23156 - Suricata-Main] 2026-11-02 19:11:32 Error: detect: opening rule file C:\\Program Files\\Suricata\\rules\\emerging-ftp.rules: No such file or directory.
+[23156 - Suricata-Main] 2026-11-02 19:11:32 Error: detect: opening rule file C:\\Program Files\\Suricata\\rules\\emerging-games.rules: No such file or directory.
+[23156 - Suricata-Main] 2026-11-02 19:11:32 Error: detect: opening rule file C:\\Program Files\\Suricata\\rules\\emerging-icmp_info.rules: No such file or directory.
+[23156 - Suricata-Main] 2026-11-02 19:11:32 Error: detect: opening rule file C:\\Program Files\\Suricata\\rules\\emerging-icmp.rules: No such file or directory.
+[23156 - Suricata-Main] 2026-11-02 19:11:32 Error: detect: opening rule file C:\\Program Files\\Suricata\\rules\\emerging-imap.rules: No such file or directory.
+[23156 - Suricata-Main] 2026-11-02 19:11:32 Error: detect: opening rule file C:\\Program Files\\Suricata\\rules\\emerging-inappropriate.rules: No such file or directory.
+[23156 - Suricata-Main] 2026-11-02 19:11:32 Error: detect: opening rule file C:\\Program Files\\Suricata\\rules\\emerging-info.rules: No such file or directory.
+[23156 - Suricata-Main] 2026-11-02 19:11:32 Error: detect: opening rule file C:\\Program Files\\Suricata\\rules\\emerging-ja3.rules: No such file or directory.
+[23156 - Suricata-Main] 2026-11-02 19:11:32 Error: detect: opening rule file C:\\Program Files\\Suricata\\rules\\emerging-malware.rules: No such file or directory.
+[23156 - Suricata-Main] 2026-11-02 19:11:32 Error: detect: opening rule file C:\\Program Files\\Suricata\\rules\\emerging-misc.rules: No such file or directory.
+[23156 - Suricata-Main] 2026-11-02 19:11:32 Error: detect: opening rule file C:\\Program Files\\Suricata\\rules\\emerging-mobile_malware.rules: No such file or directory.
+[23156 - Suricata-Main] 2026-11-02 19:11:32 Error: detect: opening rule file C:\\Program Files\\Suricata\\rules\\emerging-netbios.rules: No such file or directory.
+[23156 - Suricata-Main] 2026-11-02 19:11:32 Error: detect: opening rule file C:\\Program Files\\Suricata\\rules\\emerging-phishing.rules: No such file or directory.
+[23156 - Suricata-Main] 2026-11-02 19:11:32 Error: detect: opening rule file C:\\Program Files\\Suricata\\rules\\emerging-p2p.rules: No such file or directory.
+[23156 - Suricata-Main] 2026-11-02 19:11:32 Error: detect: opening rule file C:\\Program Files\\Suricata\\rules\\emerging-policy.rules: No such file or directory.
+[23156 - Suricata-Main] 2026-11-02 19:11:32 Error: detect: opening rule file C:\\Program Files\\Suricata\\rules\\emerging-pop3.rules: No such file or directory.
+[23156 - Suricata-Main] 2026-11-02 19:11:32 Error: detect: opening rule file C:\\Program Files\\Suricata\\rules\\emerging-rpc.rules: No such file or directory.
+[23156 - Suricata-Main] 2026-11-02 19:11:33 Error: detect: opening rule file C:\\Program Files\\Suricata\\rules\\emerging-scada.rules: No such file or directory.
+[23156 - Suricata-Main] 2026-11-02 19:11:33 Error: detect: opening rule file C:\\Program Files\\Suricata\\rules\\emerging-scan.rules: No such file or directory.
+[23156 - Suricata-Main] 2026-11-02 19:11:33 Error: detect: opening rule file C:\\Program Files\\Suricata\\rules\\emerging-shellcode.rules: No such file or directory.
+[23156 - Suricata-Main] 2026-11-02 19:11:33 Error: detect: opening rule file C:\\Program Files\\Suricata\\rules\\emerging-smtp.rules: No such file or directory.
+[23156 - Suricata-Main] 2026-11-02 19:11:33 Error: detect: opening rule file C:\\Program Files\\Suricata\\rules\\emerging-snmp.rules: No such file or directory.
+[23156 - Suricata-Main] 2026-11-02 19:11:33 Error: detect: opening rule file C:\\Program Files\\Suricata\\rules\\emerging-sql.rules: No such file or directory.
+[23156 - Suricata-Main] 2026-11-02 19:11:33 Error: detect: opening rule file C:\\Program Files\\Suricata\\rules\\emerging-telnet.rules: No such file or directory.
+[23156 - Suricata-Main] 2026-11-02 19:11:33 Error: detect: opening rule file C:\\Program Files\\Suricata\\rules\\emerging-tftp.rules: No such file or directory.
+[23156 - Suricata-Main] 2026-11-02 19:11:33 Error: detect: opening rule file C:\\Program Files\\Suricata\\rules\\emerging-user_agents.rules: No such file or directory.
+[23156 - Suricata-Main] 2026-11-02 19:11:33 Error: detect: opening rule file C:\\Program Files\\Suricata\\rules\\emerging-voip.rules: No such file or directory.
+[23156 - Suricata-Main] 2026-11-02 19:11:33 Error: detect: opening rule file C:\\Program Files\\Suricata\\rules\\emerging-web_client.rules: No such file or directory.
+[23156 - Suricata-Main] 2026-11-02 19:11:33 Error: detect: opening rule file C:\\Program Files\\Suricata\\rules\\emerging-web_server.rules: No such file or directory.
+[23156 - Suricata-Main] 2026-11-02 19:11:33 Error: detect: opening rule file C:\\Program Files\\Suricata\\rules\\emerging-web_specific_apps.rules: No such file or directory.
+[23156 - Suricata-Main] 2026-11-02 19:11:33 Error: detect: opening rule file C:\\Program Files\\Suricata\\rules\\emerging-worm.rules: No such file or directory.
+[23156 - Suricata-Main] 2026-11-02 19:11:33 Error: detect: opening rule file C:\\Program Files\\Suricata\\rules\\tor.rules: No such file or directory.
+[23156 - Suricata-Main] 2026-11-02 19:11:33 Warning: detect: 47 rule files specified, but no rules were loaded!
+[23156 - Suricata-Main] 2026-11-02 19:11:33 Warning: threshold-config: Error opening file: "C:\Program Files\Suricata\\\threshold.config": No such file or directory
+[23156 - Suricata-Main] 2026-11-02 19:11:33 Info: detect: 0 signatures processed. 0 are IP-only rules, 0 are inspecting packet payload, 0 inspect application layer, 0 are decoder event only
+[9904 - RX#01] 2026-11-02 19:11:33 Info: pcap: using bpf-filter "^"
+[9904 - RX#01] 2026-11-02 19:11:33 Error: pcap: bpf compilation error can't parse filter expression: syntax error for C:\Users\Anvin\Downloads\nextguard-test.pcapng
+[9904 - RX#01] 2026-11-02 19:11:33 Warning: pcap: Failed to init pcap file C:\Users\Anvin\Downloads\nextguard-test.pcapng, skipping
+[23156 - Suricata-Main] 2026-11-02 19:11:33 Warning: suricata: setrlimit unavailable.
+[9904 - RX#01] 2026-11-02 19:11:33 Error: pcap: pcap file reader thread failed to initialize
+[23156 - Suricata-Main] 2026-11-02 19:11:33 Notice: threads: Threads created -> RX: 1 W: 16 FM: 1 FR: 1   Engine started.
+[23156 - Suricata-Main] 2026-11-02 19:11:33 Notice: suricata: Signal Received.  Stopping engine.
+[23156 - Suricata-Main] 2026-11-02 19:11:33 Info: suricata: time elapsed 0.907s
+[23156 - Suricata-Main] 2026-11-02 19:11:34 Info: counters: Alerts: 0

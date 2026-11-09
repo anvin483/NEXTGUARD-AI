@@ -1,0 +1,102 @@
+[8996 - Suricata-Main] 2026-11-02 17:16:43 Notice: suricata: This is Suricata version 8.0.7 RELEASE running in SYSTEM mode
+[8996 - Suricata-Main] 2026-11-02 17:16:43 Info: cpu: CPUs/cores online: 16
+[8996 - Suricata-Main] 2026-11-02 17:16:43 Notice: runmodes: thread stack size of 0 too small: setting to 512k
+[8996 - Suricata-Main] 2026-11-02 17:16:43 Info: suricata: Running suricata under test mode
+[8996 - Suricata-Main] 2026-11-02 17:16:43 Info: suricata: Setting engine mode to IDS mode by default
+[8996 - Suricata-Main] 2026-11-02 17:16:43 Info: exception-policy: master exception-policy set to: auto
+[8996 - Suricata-Main] 2026-11-02 17:16:43 Info: coredump-config: Configuring core dump is not yet supported on Windows.
+[8996 - Suricata-Main] 2026-11-02 17:16:43 Info: logopenfile: fast output device (regular) initialized: fast.log
+[8996 - Suricata-Main] 2026-11-02 17:16:43 Info: logopenfile: eve-log output device (regular) initialized: eve.json
+[8996 - Suricata-Main] 2026-11-02 17:16:43 Info: logopenfile: stats output device (regular) initialized: stats.log
+[8996 - Suricata-Main] 2026-11-02 17:16:43 Error: detect: opening rule file C:\\Program Files\\Suricata\\rules\\botcc.rules: No such file or directory.
+[17996 - Suricata-Main] 2026-11-02 17:33:02 Notice: suricata: This is Suricata version 8.0.7 RELEASE running in SYSTEM mode
+[17996 - Suricata-Main] 2026-11-02 17:33:02 Info: cpu: CPUs/cores online: 16
+[17996 - Suricata-Main] 2026-11-02 17:33:02 Notice: runmodes: thread stack size of 0 too small: setting to 512k
+[17996 - Suricata-Main] 2026-11-02 17:33:02 Info: suricata: Running suricata under test mode
+[17996 - Suricata-Main] 2026-11-02 17:33:02 Info: suricata: Setting engine mode to IDS mode by default
+[17996 - Suricata-Main] 2026-11-02 17:33:02 Info: exception-policy: master exception-policy set to: auto
+[17996 - Suricata-Main] 2026-11-02 17:33:02 Info: coredump-config: Configuring core dump is not yet supported on Windows.
+[17996 - Suricata-Main] 2026-11-02 17:33:02 Info: logopenfile: fast output device (regular) initialized: fast.log
+[17996 - Suricata-Main] 2026-11-02 17:33:02 Info: logopenfile: eve-log output device (regular) initialized: eve.json
+[17996 - Suricata-Main] 2026-11-02 17:33:02 Info: logopenfile: stats output device (regular) initialized: stats.log
+[17996 - Suricata-Main] 2026-11-02 17:33:02 Info: detect: No signatures supplied.
+[17996 - Suricata-Main] 2026-11-02 17:33:02 Notice: suricata: Configuration provided was successfully loaded. Exiting.
+[21032 - Suricata-Main] 2026-11-02 18:08:00 Notice: suricata: This is Suricata version 8.0.7 RELEASE running in USER mode
+[21032 - Suricata-Main] 2026-11-02 18:08:00 Info: cpu: CPUs/cores online: 16
+[21032 - Suricata-Main] 2026-11-02 18:08:00 Notice: runmodes: thread stack size of 0 too small: setting to 512k
+[21032 - Suricata-Main] 2026-11-02 18:08:00 Info: suricata: Setting engine mode to IDS mode by default
+[21032 - Suricata-Main] 2026-11-02 18:08:00 Info: exception-policy: master exception-policy set to: auto
+[21032 - Suricata-Main] 2026-11-02 18:08:00 Info: coredump-config: Configuring core dump is not yet supported on Windows.
+[21032 - Suricata-Main] 2026-11-02 18:08:00 Info: logopenfile: fast output device (regular) initialized: fast.log
+[21032 - Suricata-Main] 2026-11-02 18:08:00 Info: logopenfile: eve-log output device (regular) initialized: eve.json
+[21032 - Suricata-Main] 2026-11-02 18:08:00 Info: logopenfile: stats output device (regular) initialized: stats.log
+[21032 - Suricata-Main] 2026-11-02 18:08:00 Info: detect: No signatures supplied.
+[21032 - Suricata-Main] 2026-11-02 18:08:01 Warning: suricata: setrlimit unavailable.
+[17684 - RX#01] 2026-11-02 18:08:01 Info: pcap: Starting file run for C:\Users\Anvin\Downloads\nextguard-test.pcapng
+[17684 - RX#01] 2026-11-02 18:08:01 Info: checksum: No packets with invalid checksum, assuming checksum offloading is NOT used
+[21032 - Suricata-Main] 2026-11-02 18:08:01 Notice: threads: Threads created -> RX: 1 W: 16 FM: 1 FR: 1   Engine started.
+[17684 - RX#01] 2026-11-02 18:08:01 Info: pcap: pcap file C:\Users\Anvin\Downloads\nextguard-test.pcapng end of file reached (pcap err code 0)
+[21032 - Suricata-Main] 2026-11-02 18:08:01 Notice: suricata: Signal Received.  Stopping engine.
+[21032 - Suricata-Main] 2026-11-02 18:08:01 Info: suricata: time elapsed 1.047s
+[17684 - RX#01] 2026-11-02 18:08:01 Notice: pcap: read 1 file, 2769 packets, 1584308 bytes
+[21032 - Suricata-Main] 2026-11-02 18:08:02 Info: counters: Alerts: 0
+[13436 - Suricata-Main] 2026-11-02 19:15:25 Notice: suricata: This is Suricata version 8.0.7 RELEASE running in SYSTEM mode
+[13436 - Suricata-Main] 2026-11-02 19:15:25 Info: cpu: CPUs/cores online: 16
+[13436 - Suricata-Main] 2026-11-02 19:15:25 Notice: runmodes: thread stack size of 0 too small: setting to 512k
+[13436 - Suricata-Main] 2026-11-02 19:15:25 Info: suricata: Running suricata under test mode
+[13436 - Suricata-Main] 2026-11-02 19:15:25 Info: suricata: Setting engine mode to IDS mode by default
+[13436 - Suricata-Main] 2026-11-02 19:15:25 Info: exception-policy: master exception-policy set to: auto
+[13436 - Suricata-Main] 2026-11-02 19:15:25 Info: coredump-config: Configuring core dump is not yet supported on Windows.
+[13436 - Suricata-Main] 2026-11-02 19:15:25 Info: logopenfile: fast output device (regular) initialized: fast.log
+[13436 - Suricata-Main] 2026-11-02 19:15:25 Info: logopenfile: eve-log output device (regular) initialized: eve.json
+[13436 - Suricata-Main] 2026-11-02 19:15:25 Info: logopenfile: stats output device (regular) initialized: stats.log
+[13436 - Suricata-Main] 2026-11-02 19:15:25 Info: detect: No signatures supplied.
+[13436 - Suricata-Main] 2026-11-02 19:15:25 Notice: suricata: Configuration provided was successfully loaded. Exiting.
+[19460 - Suricata-Main] 2026-11-02 19:15:36 Notice: suricata: This is Suricata version 8.0.7 RELEASE running in USER mode
+[19460 - Suricata-Main] 2026-11-02 19:15:36 Info: cpu: CPUs/cores online: 16
+[19460 - Suricata-Main] 2026-11-02 19:15:36 Notice: runmodes: thread stack size of 0 too small: setting to 512k
+[19460 - Suricata-Main] 2026-11-02 19:15:36 Info: suricata: Setting engine mode to IDS mode by default
+[19460 - Suricata-Main] 2026-11-02 19:15:36 Info: exception-policy: master exception-policy set to: auto
+[19460 - Suricata-Main] 2026-11-02 19:15:36 Info: coredump-config: Configuring core dump is not yet supported on Windows.
+[19460 - Suricata-Main] 2026-11-02 19:15:36 Info: logopenfile: fast output device (regular) initialized: fast.log
+[19460 - Suricata-Main] 2026-11-02 19:15:36 Info: logopenfile: eve-log output device (regular) initialized: eve.json
+[19460 - Suricata-Main] 2026-11-02 19:15:36 Info: logopenfile: stats output device (regular) initialized: stats.log
+[19460 - Suricata-Main] 2026-11-02 19:15:36 Info: detect: No signatures supplied.
+[19460 - Suricata-Main] 2026-11-02 19:15:36 Warning: suricata: setrlimit unavailable.
+[3212 - RX#01] 2026-11-02 19:15:36 Info: pcap: Starting file run for C:\Users\Anvin\Downloads\nextguard-test.pcapng
+[3212 - RX#01] 2026-11-02 19:15:36 Info: pcap: pcap file C:\Users\Anvin\Downloads\nextguard-test.pcapng end of file reached (pcap err code 0)
+[19460 - Suricata-Main] 2026-11-02 19:15:36 Notice: threads: Threads created -> RX: 1 W: 16 FM: 1 FR: 1   Engine started.
+[19460 - Suricata-Main] 2026-11-02 19:15:36 Notice: suricata: Signal Received.  Stopping engine.
+[19460 - Suricata-Main] 2026-11-02 19:15:37 Info: suricata: time elapsed 1.085s
+[3212 - RX#01] 2026-11-02 19:15:37 Notice: pcap: read 1 file, 137 packets, 1300789 bytes
+[19460 - Suricata-Main] 2026-11-02 19:15:38 Info: counters: Alerts: 0
+[2576 - Suricata-Main] 2026-11-02 19:20:48 Notice: suricata: This is Suricata version 8.0.7 RELEASE running in SYSTEM mode
+[2576 - Suricata-Main] 2026-11-02 19:20:48 Info: cpu: CPUs/cores online: 16
+[2576 - Suricata-Main] 2026-11-02 19:20:48 Notice: runmodes: thread stack size of 0 too small: setting to 512k
+[2576 - Suricata-Main] 2026-11-02 19:20:48 Info: suricata: Running suricata under test mode
+[2576 - Suricata-Main] 2026-11-02 19:20:48 Info: suricata: Setting engine mode to IDS mode by default
+[2576 - Suricata-Main] 2026-11-02 19:20:48 Info: exception-policy: master exception-policy set to: auto
+[2576 - Suricata-Main] 2026-11-02 19:20:48 Info: coredump-config: Configuring core dump is not yet supported on Windows.
+[2576 - Suricata-Main] 2026-11-02 19:20:48 Info: logopenfile: fast output device (regular) initialized: fast.log
+[2576 - Suricata-Main] 2026-11-02 19:20:48 Info: logopenfile: eve-log output device (regular) initialized: eve.json
+[2576 - Suricata-Main] 2026-11-02 19:20:48 Info: logopenfile: stats output device (regular) initialized: stats.log
+[2576 - Suricata-Main] 2026-11-02 19:20:48 Info: detect: No signatures supplied.
+[2576 - Suricata-Main] 2026-11-02 19:20:48 Notice: suricata: Configuration provided was successfully loaded. Exiting.
+[10996 - Suricata-Main] 2026-11-02 19:20:54 Notice: suricata: This is Suricata version 8.0.7 RELEASE running in USER mode
+[10996 - Suricata-Main] 2026-11-02 19:20:54 Info: cpu: CPUs/cores online: 16
+[10996 - Suricata-Main] 2026-11-02 19:20:54 Notice: runmodes: thread stack size of 0 too small: setting to 512k
+[10996 - Suricata-Main] 2026-11-02 19:20:54 Info: suricata: Setting engine mode to IDS mode by default
+[10996 - Suricata-Main] 2026-11-02 19:20:54 Info: exception-policy: master exception-policy set to: auto
+[10996 - Suricata-Main] 2026-11-02 19:20:54 Info: coredump-config: Configuring core dump is not yet supported on Windows.
+[10996 - Suricata-Main] 2026-11-02 19:20:54 Info: logopenfile: fast output device (regular) initialized: fast.log
+[10996 - Suricata-Main] 2026-11-02 19:20:54 Info: logopenfile: eve-log output device (regular) initialized: eve.json
+[10996 - Suricata-Main] 2026-11-02 19:20:54 Info: logopenfile: stats output device (regular) initialized: stats.log
+[10996 - Suricata-Main] 2026-11-02 19:20:54 Info: detect: No signatures supplied.
+[10996 - Suricata-Main] 2026-11-02 19:20:55 Warning: suricata: setrlimit unavailable.
+[6400 - RX#01] 2026-11-02 19:20:55 Info: pcap: Starting file run for C:\Users\Anvin\Downloads\nextguard-test.pcapng
+[6400 - RX#01] 2026-11-02 19:20:55 Info: pcap: pcap file C:\Users\Anvin\Downloads\nextguard-test.pcapng end of file reached (pcap err code 0)
+[10996 - Suricata-Main] 2026-11-02 19:20:55 Notice: threads: Threads created -> RX: 1 W: 16 FM: 1 FR: 1   Engine started.
+[10996 - Suricata-Main] 2026-11-02 19:20:55 Notice: suricata: Signal Received.  Stopping engine.
+[10996 - Suricata-Main] 2026-11-02 19:20:55 Info: suricata: time elapsed 1.038s
+[6400 - RX#01] 2026-11-02 19:20:56 Notice: pcap: read 1 file, 137 packets, 1300789 bytes
+[10996 - Suricata-Main] 2026-11-02 19:20:56 Info: counters: Alerts: 0
